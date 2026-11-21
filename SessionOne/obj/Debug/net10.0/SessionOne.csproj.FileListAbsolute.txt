@@ -1,0 +1,15 @@
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\SessionOne.exe
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\SessionOne.deps.json
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\SessionOne.runtimeconfig.json
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\SessionOne.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\SessionOne.pdb
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.AssemblyInfoInputs.cache
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.AssemblyInfo.cs
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\refint\SessionOne.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.pdb
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.genruntimeconfig.cache
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\ref\SessionOne.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\SessionOne.csproj.Up2Date

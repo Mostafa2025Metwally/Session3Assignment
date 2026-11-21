@@ -1,0 +1,16 @@
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\Session3Assignment.exe
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\Session3Assignment.deps.json
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\Session3Assignment.runtimeconfig.json
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\Session3Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\bin\Debug\net10.0\Session3Assignment.pdb
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.AssemblyInfoInputs.cache
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.AssemblyInfo.cs
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.sourcelink.json
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\refint\Session3Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.pdb
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3Assignment.genruntimeconfig.cache
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\ref\Session3Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\SessionOne\obj\Debug\net10.0\Session3.BF471946.Up2Date
